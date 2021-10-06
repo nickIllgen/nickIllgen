@@ -1,0 +1,5 @@
+- Hi, I'm Nick Illgen
+- I graduated from the University of Wisconsin with a Degree in computer science
+- I am interested in CI/CD and 
+- I am using this just for personal projects not related to work
+- If you would like to contact me you can email me at nickillgenpersonal@gmail.com
